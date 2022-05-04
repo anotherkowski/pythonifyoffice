@@ -1,2 +1,5 @@
-# pythonifyoffice
-Pythonifying MS Office because I do not have admin privileges on my workstation and macros are disabled enterprise-wide. To adventure!
+# Pythonify Office
+Python-ifying MS Office because
+1. No admin privileges on employee workstation
+2. Macros are disabled enterprise-wide. 
+## To adventure!
